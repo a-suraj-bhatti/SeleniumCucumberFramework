@@ -47,9 +47,4 @@ geckodriver*
 msedgedriver*
 
 # Configuration backups
-*.properties.bak
-
-# Cucumber
-features/reports/
-*.html
-.cucumber/ 
+*.properties.bak 

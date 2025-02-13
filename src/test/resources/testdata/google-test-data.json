@@ -1,0 +1,9 @@
+{
+    "searchQueries": {
+        "simple": "selenium automation",
+        "complex": "page object model best practices"
+    },
+    "expectedElements": {
+        "gmailLink": "//a[normalize-space()='Gmail']"
+    }
+} 
